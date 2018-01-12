@@ -1,0 +1,7 @@
+name: AccountGuard
+main: lt.bukkit.accountguard.Main
+version: 1.2.3
+authors: [iBo3oF]
+commands:
+   accountguard:
+     aliases: ag

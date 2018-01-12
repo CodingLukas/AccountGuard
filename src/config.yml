@@ -1,0 +1,8 @@
+#Don't touch this.
+cfg-version: 5
+#Default file name is messages_en.yml
+language: en
+#Update automatically, when update is available.
+auto-update: true
+#Disallow ops to use /ag remove and /ag reload commands, for security purposes
+disallow: false
